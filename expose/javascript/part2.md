@@ -35,4 +35,4 @@
     6. `true == Boolean(2)`: Any number other than 0 is true, so Boolean(2) is true!
 15. `==` compares type converted results, while `===` compares without type conversion 
 16. [part2question16_jsfile](part2-question16.js)
-17. 
+17. Result will be `[2, 4 ,6]`. Each value in `array` is multiplied by 2 through the `doSomething(num)` function called by `callback` parameter. 
