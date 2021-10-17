@@ -36,3 +36,5 @@
 15. `==` compares type converted results, while `===` compares without type conversion 
 16. [part2question16_jsfile](part2-question16.js)
 17. Result will be `[2, 4 ,6]`. Each value in `array` is multiplied by 2 through the `doSomething(num)` function called by `callback` parameter. 
+18. [part2question18_jsfile](part2-question18.js)
+19. `1 4 3 2`
