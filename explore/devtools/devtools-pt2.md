@@ -1,0 +1,2 @@
+1. num1 and num2 are being concatenated because they are text values and not int values in `calculateSum()` 
+2. Added the `Math.round()` function that was used in the expose section of the Lab! (I was wondering why that was there! Makes sense now!)
