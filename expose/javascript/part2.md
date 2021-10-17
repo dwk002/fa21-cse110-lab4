@@ -34,11 +34,5 @@
     E. `true == 2`: false, true is 1 in numeric form
     F. `true == Boolean(2)`: Any number other than 0 is true, so Boolean(2) is true!
 15. `==` compares type converted results, while `===` compares without type conversion 
-    
-‘3’ - 2
-3 + null
-‘3’ + null
-true + 3
-false + null
-'3' + undefined
-'3' - undefined
+16. [part2question16_jsfile](part2-question16.js)
+17. 
